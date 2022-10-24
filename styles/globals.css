@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "comicsans";
+    src: url("../public/comic-sans-ms/ComicSansMS3.ttf");
+  }
